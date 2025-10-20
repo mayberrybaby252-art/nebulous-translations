@@ -1270,7 +1270,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Background_Image_">Imagem do Plano de Fundo:</string>
     <string name="INVERT_SELECTION">INVERTER\nSELEÇÃO</string>
     <string name="MINIMAP">MINI-MAPA</string>
-    <string name="Victorious">Você vence!</string>
+    <string name="Victorious">Você venceu!</string>
     <string name="Dominant">Dominante</string>
     <string name="Champion">Campeão</string>
     <string name="Win_10_Tournaments">Ganhar 10 Torneios</string>
